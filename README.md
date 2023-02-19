@@ -1,7 +1,7 @@
 ### Hello!
 
 My name is Muhammad Rifqy Yudhiestra R.<br>
-I'm a student in Hasanuddin Uversity<br>
+I'm a student in Hasanuddin University<br>
 You can follow me in my linkedin [here](https://www.linkedin.com/in/rifqyyr/)
 
 <a><h2>Stats</h2></a>
